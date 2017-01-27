@@ -1,5 +1,6 @@
 exports[`<IconLink /> matches the snapshot 1`] = `
 <a
+  className="IconLink"
   href="https://example.com"
   target="blank">
   <div

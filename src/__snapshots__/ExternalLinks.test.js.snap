@@ -2,6 +2,7 @@ exports[`<ExternalLinks /> matches the snapshot 1`] = `
 <div
   className="ExternalLinks">
   <a
+    className="IconLink"
     href="https://github.com/cookiefission"
     target="blank">
     <div
@@ -11,6 +12,7 @@ exports[`<ExternalLinks /> matches the snapshot 1`] = `
     </div>
   </a>
   <a
+    className="IconLink"
     href="https://twitter.com/cookiefission"
     target="blank">
     <div
@@ -20,6 +22,7 @@ exports[`<ExternalLinks /> matches the snapshot 1`] = `
     </div>
   </a>
   <a
+    className="IconLink"
     href="https://blog.cookiefission.com"
     target="blank">
     <div

@@ -1,13 +1,12 @@
 import React from 'react';
 import Icon from '../Icon';
 
-const IconLink = (props) => {
-  const href = props.href;
-  const iconName = props.iconName;
+import './IconLink.css';
 
+const IconLink = (props) => {
   return(
-    <a href={href} target='blank'>
-      <Icon name={iconName} />
+    <a href={props.href} target='blank' className='IconLink' >
+      <Icon name={props.iconName} />
     </a>
   );
 };
