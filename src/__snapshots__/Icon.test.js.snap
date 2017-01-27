@@ -14,14 +14,6 @@ exports[`<Icon /> when a size is provided matches the snapshot 1`] = `
 </div>
 `;
 
-exports[`<Icon /> when an iconName is provided matches the snapshot 1`] = `
-<div
-  className="Icon-wrapper">
-  <i
-    className="fa fa-github fa-lg" />
-</div>
-`;
-
 exports[`<Icon /> when an name is provided matches the snapshot 1`] = `
 <div
   className="Icon-wrapper">
