@@ -1,0 +1,32 @@
+exports[`<ExternalLinks /> matches the snapshot 1`] = `
+<div
+  className="ExternalLinks">
+  <a
+    href="https://github.com/cookiefission"
+    target="blank">
+    <div
+      className="Icon-wrapper">
+      <i
+        className="fa fa-github fa-lg" />
+    </div>
+  </a>
+  <a
+    href="https://twitter.com/cookiefission"
+    target="blank">
+    <div
+      className="Icon-wrapper">
+      <i
+        className="fa fa-twitter fa-lg" />
+    </div>
+  </a>
+  <a
+    href="https://blog.cookiefission.com"
+    target="blank">
+    <div
+      className="Icon-wrapper">
+      <i
+        className="fa fa-medium fa-lg" />
+    </div>
+  </a>
+</div>
+`;
