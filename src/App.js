@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
 import 'font-awesome/css/font-awesome.css'
+
+import Icon from './Icon'
+
+import './App.css';
 
 class App extends Component {
   render() {
@@ -20,13 +23,13 @@ class App extends Component {
             Javascript to DevOps.
           </p>
           <a target='blank' href="https://github.com/cookiefission">
-            <i className="fa fa-github fa-lg" />
+            <Icon name='github' />
           </a>
           <a target='blank' href="https://twitter.com/cookiefission">
-            <i className="fa fa-twitter fa-lg" />
+            <Icon name='twitter' />
           </a>
           <a target='blank' href="https://blog.cookiefission.com">
-            <i className="fa fa-medium fa-lg" />
+            <Icon name='medium' />
           </a>
         </div>
       </div>
