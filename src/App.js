@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import 'font-awesome/css/font-awesome.css'
 
-import IconLink from './links/IconLink';
+import GithubLink from './links/GithubLink';
+import TwitterLink from './links/TwitterLink';
+import MediumLink from './links/MediumLink';
 
 import './App.css';
 
@@ -22,9 +24,9 @@ class App extends Component {
             I work mainly in Ruby but have a wide variety of interests, from
             Javascript to DevOps.
           </p>
-          <IconLink href='https://github.com/cookiefission' iconName='github'/>
-          <IconLink href='https://twitter.com/cookiefission' iconName='twitter'/>
-          <IconLink href='https://blog.cookiefission.com' iconName='medium'/>
+          <GithubLink />
+          <TwitterLink />
+          <MediumLink />
         </div>
       </div>
     );

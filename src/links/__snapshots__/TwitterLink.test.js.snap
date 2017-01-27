@@ -1,0 +1,11 @@
+exports[`<TwitterLink /> matches the snapshot 1`] = `
+<a
+  href="https://twitter.com/cookiefission"
+  target="blank">
+  <div
+    className="Icon-wrapper">
+    <i
+      className="fa fa-twitter fa-lg" />
+  </div>
+</a>
+`;

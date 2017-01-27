@@ -1,0 +1,11 @@
+exports[`<GithubLink /> matches the snapshot 1`] = `
+<a
+  href="https://github.com/cookiefission"
+  target="blank">
+  <div
+    className="Icon-wrapper">
+    <i
+      className="fa fa-github fa-lg" />
+  </div>
+</a>
+`;
