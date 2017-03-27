@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import profile from './profile.jpg';
 import 'font-awesome/css/font-awesome.css'
 
-import ExternalLinks from './ExternalLinks';
+import ExternalLinks from './components/ExternalLinks';
 
 import './App.css';
 
