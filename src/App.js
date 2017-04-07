@@ -3,6 +3,7 @@ import profile from './profile.jpg';
 import 'font-awesome/css/font-awesome.css'
 
 import ExternalLinks from './components/ExternalLinks';
+import GithubShowcase from './components/GithubShowcase';
 
 import './App.css';
 
@@ -23,6 +24,7 @@ class App extends Component {
             Javascript to DevOps.
           </p>
           <ExternalLinks />
+          <GithubShowcase />
         </div>
       </div>
     );

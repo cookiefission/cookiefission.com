@@ -1,0 +1,37 @@
+.GithubShowcase-wrapper {
+  display: flex;
+  width: 750px;
+  margin: auto;
+  margin-top: 10px;
+  flex-wrap: wrap;
+
+}
+
+@media (max-width: 750px) {
+  .GithubShowcase-wrapper {
+    width: 98%;
+  }
+}
+
+.GithubShowcase-repo {
+  width: 48.9%;
+  height: 100px;
+  border: none;
+  padding: 3px;
+}
+
+.GithubShowcase-content {
+  height: 100%;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+@media (max-width: 500px) {
+  .GithubShowcase-wrapper {
+    display: block;
+  }
+
+  .GithubShowcase-repo {
+    width: 100%;
+  }
+}

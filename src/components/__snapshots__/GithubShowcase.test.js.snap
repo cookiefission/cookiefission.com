@@ -1,0 +1,47 @@
+exports[`<GithubShowcase /> matches the snapshot 1`] = `
+<div
+  className="GithubShowcase-wrapper">
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+  <div
+    className="GithubShowcase-repo">
+    <div
+      className="GithubShowcase-content">
+      Foo
+    </div>
+  </div>
+</div>
+`;
